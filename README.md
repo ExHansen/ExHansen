@@ -1,5 +1,12 @@
-# 💫 About Me:
-# Hi there, I'm Hansen <br><br>🧠 Undergraduate Student At Nastional Development University Veteran Jakarta<br/><br>📖 Data Enthusiasts and constantly learning and exploring new technologies to improve my skills.<br/><br>💬 Ask me about my experience with Data, Machine Learning, AI, and more!!!.<br/><br>👷🏻‍♂️ Currently focusing my carrer in Data Engineer.
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
+
+# Hi there, I'm Hansen <br>
+🧠 Undergraduate Student At Nastional Development University Veteran Jakarta<br/>
+📖 Data Enthusiasts and constantly learning and exploring new technologies to improve my skills.<br/>
+💬 Ask me about my experience with Data, Machine Learning, AI, and more!!!.<br/>
+👷🏻‍♂️ Currently focusing my carrer in Data Engineer.
 
 
 ## 🌐 Socials:
