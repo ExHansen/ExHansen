@@ -1,12 +1,13 @@
-## Hi, I'm Hansen Vernandez
+# Hi there, I'm Hansen 
+
 🧠 Undergraduate Student At Nastional Development University Veteran Jakarta<br/>
-📖 I'm a Data Enthusiasts and constantly learning and exploring new technologies to improve my skills.<br/>
+📖 Data Enthusiasts and constantly learning and exploring new technologies to improve my skills.<br/>
 💬 Ask me about my experience with Data, Machine Learning, AI, and more!!!.<br/>
 👷🏻‍♂️ Currently focusing my carrer in Data Engineer.
 
 
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vernandezhansen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hansenvernandez) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hansenvernandez@gmail.com) 
 
 # 💻 Tech Stack:
