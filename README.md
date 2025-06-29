@@ -6,7 +6,7 @@
 🧠 Undergraduate Student At Nastional Development University Veteran Jakarta<br/>
 📖 Data Enthusiasts and constantly learning and exploring new technologies to improve my skills.<br/>
 💬 Ask me about my experience with Data, Machine Learning, AI, and more!!!.<br/>
-👷🏻‍♂️ Currently focusing my carrer in Data Engineer.
+👷🏻‍♂️ Currently focusing my passion in Data Engineer.
 
 
 ## 🌐 Socials:
