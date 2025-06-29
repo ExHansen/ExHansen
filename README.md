@@ -1,6 +1,9 @@
 ## Hi, I'm Hansen Vernandez
 🧠 Undergraduate Student At Nastional Development University Veteran Jakarta<br/>
-📖 I'm an Data Enthusiasts!!!<br/>
+📖 I'm a Data Enthusiasts and constantly learning and exploring new technologies to improve my skills.<br/>
+💬 Ask me about my experience with Data, Machine Learning, AI, and more!!!.<br/>
+👷🏻‍♂️ Currently focusing my carrer in Data Engineer.
+
 
 
 ## 🌐 Socials:
